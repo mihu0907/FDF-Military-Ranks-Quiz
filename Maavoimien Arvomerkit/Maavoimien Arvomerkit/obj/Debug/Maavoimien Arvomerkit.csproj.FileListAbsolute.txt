@@ -1,0 +1,14 @@
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\bin\Debug\Maavoimien Arvomerkit.exe.config
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\bin\Debug\Maavoimien Arvomerkit.exe
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\bin\Debug\Maavoimien Arvomerkit.pdb
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\obj\Debug\Maavoimien Arvomerkit.csprojResolveAssemblyReference.cache
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\obj\Debug\MainWindow.g.cs
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\obj\Debug\App.g.cs
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\obj\Debug\Maavoimien Arvomerkit_MarkupCompile.cache
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\obj\Debug\Maavoimien Arvomerkit_MarkupCompile.lref
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\obj\Debug\MainWindow.baml
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\obj\Debug\Maavoimien Arvomerkit.g.resources
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\obj\Debug\Maavoimien_Arvomerkit.Properties.Resources.resources
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\obj\Debug\Maavoimien Arvomerkit.csproj.GenerateResource.Cache
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\obj\Debug\Maavoimien Arvomerkit.exe
+c:\Visual Studio 2015\Projects\Maavoimien Arvomerkit\Maavoimien Arvomerkit\obj\Debug\Maavoimien Arvomerkit.pdb
